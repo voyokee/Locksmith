@@ -1,4 +1,4 @@
-# Password Manager
+# Locksmith- A Password Manager
 
 ## Description
 
