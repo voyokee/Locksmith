@@ -28,3 +28,8 @@ Simply run the `password_manager.exe` .
 
    ```bash
    pip install PySide6 cryptography zxcvbn
+
+3. Run the main program (main.py)
+
+   ```python
+   python main.py
